@@ -20,7 +20,7 @@
 <tr><td><a target='_blank' href='http://www.linkedin.com/pub/%D8%B9%D9%85%D8%B1-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85/79/836/1ab'><img src='linkedin.png' height='50px'></a></td>
 <td><a target='_blank' href='https://www.github.com/omartech'><img src='github.png' height='50px'></a></td></tr>
 <tr><td><a target='_blank' href='https://twitter.com/OmarThrowsRocks'><img src='twitter.jpg' height='50px'></a></td>
-<td><a target='_blank' href='https://www.facebook.com/omar.align:centertechnologies'><img src='facebook.jpg' height='50px'></a></td></tr>
+<td><a target='_blank' href='https://www.facebook.com/omar.technologies'><img src='facebook.jpg' height='50px'></a></td></tr>
 
 </table>
 </div>
